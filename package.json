@@ -1,0 +1,24 @@
+{
+  "name": "highcharts-export-clientside",
+  "version": "1.1.4",
+  "description": "Module for Highcharts to export charts client-side",
+  "main": "highcharts-export-clientside.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deathran/highcharts-export-clientside.git"
+  },
+  "author": "\"A---- <A----@users.noreply.github.com>",
+  "license": "SAX-PD",
+  "bugs": {
+    "url": "https://github.com/deathran/highcharts-export-clientside/issues"
+  },
+  "homepage": "https://github.com/deathran/highcharts-export-clientside#readme",
+  "dependencies": {
+    "export-csv": "^1.0.1",
+    "highcharts": "^4.1.1",
+    "jspdf": "^1.3.3"
+  }
+}
